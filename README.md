@@ -139,7 +139,6 @@ https://hub.docker.com/_/mysql
 
 2. Create a Dockerfile with the necessary information, including the filename of the SQL file to be executed (query.sql)
 
-Some basic Git commands are:
 ```
 FROM mysql:8.0.33
 ENV MYSQL_ROOT_PASSWORD=my-secret-pw
