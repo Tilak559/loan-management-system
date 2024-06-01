@@ -3,16 +3,6 @@
 **Description**
 The loan management database being developed aims to streamline the process of tracking loans, providing efficient data management and storage capabilities for  lenders. By centralizing loan information, the database will enable quick access to customer data, facilitating timely decision-making and effective customer service. Additionally, it will ensure the preservation of all financial statements related to loans, allowing lenders to easily retrieve and analyze past records. With this comprehensive database, loan management will become more organized and secure.
 
-**Entities**
-1.	Loan application
-2.	Credit report
-3.	Customer details
-4.	Account details
-5.	Loan details
-6.	EMI details
-7.	Payment information
-8.	Loan history
-9.	Lender details
 
 **ER diagram**
 ![Screenshot 2023-07-17 at 8 22 49 AM](https://github.com/Tilak559/loan-management-system/assets/38768214/b5a33bf5-b381-40df-8589-1bdd3ac654a1)
