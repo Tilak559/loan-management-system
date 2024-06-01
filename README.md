@@ -1,4 +1,4 @@
-# loan-management-system
+# loan management system
 
 **Description**
 The loan management database being developed aims to streamline the process of tracking loans, providing efficient data management and storage capabilities for  lenders. By centralizing loan information, the database will enable quick access to customer data, facilitating timely decision-making and effective customer service. Additionally, it will ensure the preservation of all financial statements related to loans, allowing lenders to easily retrieve and analyze past records. With this comprehensive database, loan management will become more organized and secure.
